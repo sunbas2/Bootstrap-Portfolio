@@ -1,0 +1,51 @@
+/* ABOUT ME css below */
+body {
+    width: 960px;
+    background-image:  url("https://wallpapertag.com/wallpaper/full/2/a/8/213784-gradient-backgrounds-2560x1600-for-retina.jpg")
+}
+.navbar {
+    position: fixed;
+        top: 1px;
+    width: 100%;
+    margin: 0px auto;
+}
+.container-fluid {
+    width: 100%;
+    float: center; 
+    margin: 0px auto;
+    overflow: hidden;
+    padding: 0px 600px 0px 150px;
+}
+.navbar-brand {
+    float: left; 
+    width: 50%;
+    background-color: 
+}
+.nav {
+    float: right;
+    width: 50%
+}
+.jumbotron {
+    width: 960px;
+    margin: 0px 0px 0px 100px; 
+}
+
+/* ABOUT ME css above */
+/* CONTACT css below */
+
+form {
+    margin: 20px 100px 10px 100px; 
+    padding: 50px 100px 50px 300px;
+}
+
+/* CONTACT css above */
+
+/* PORTFOLIO css below */
+
+p {
+    font-size: 50%;
+    float: left;
+}
+
+
+/* PORTFOLIO css above */
